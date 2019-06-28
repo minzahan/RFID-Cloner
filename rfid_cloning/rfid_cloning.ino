@@ -1,4 +1,4 @@
-//This is where Minzah is gonna work and Paige
+//This is where Minzah and Paige are gonna work
 void setup() {
   // put your setup code here, to run once:
 
